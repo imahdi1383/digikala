@@ -15,17 +15,17 @@ export default defineConfig({
     tailwindcss()
   ],
 
-  server: {
-    proxy: {
-      "/dk-api": {
-        target: "https://api.digikala.com",
-        changeOrigin: true,
+  // server: {
+  //   proxy: {
+  //     "/dk-api": {
+  //       target: "https://api.digikala.com",
+  //       changeOrigin: true,
 
-        rewrite: (path) => {
-          return path.replace(/^\/dk-api/, "");
-        },
-      },
-    },
-  },
+  //       rewrite: (path) => {
+  //         return path.replace(/^\/dk-api/, "");
+  //       },
+  //     },
+  //   },
+  // },
 
 });
