@@ -1,0 +1,140 @@
+{
+  "data": {
+    "widgets": [
+      {
+        "type": "vertical_product_listing",
+        "data": {
+          "products": [
+            {
+              "id": 21872900,
+              "title_fa": "گوشی موبایل شیائومی مدل Poco X8 Pro دو سیم‌کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/26f599e25cf611777c28deb04c9bffc012c392ad_1779576063.jpg",
+              "price": 157553700,
+              "old_price": 162426500,
+              "discount_percent": 3,
+              "rating": 4.6,
+              "stock": 2,
+              "colors": ["#f5e6a8", "#000000", "#ffffff"],
+              "special_offer": true
+            },
+            {
+              "id": 21872901,
+              "title_fa": "گوشی موبایل سامسونگ مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample2.jpg",
+              "price": 341490000,
+              "old_price": null,
+              "discount_percent": 0,
+              "rating": 4.6,
+              "stock": 3,
+              "colors": ["#000000", "#7c3aed"],
+              "special_offer": true
+            },
+            {
+              "id": 21872902,
+              "title_fa": "گوشی موبایل ناتینگ مدل N36 دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample3.jpg",
+              "price": 28499000,
+              "old_price": null,
+              "discount_percent": 0,
+              "rating": 4.5,
+              "stock": 0,
+              "colors": ["#000000"],
+              "special_offer": false
+            },
+
+            {
+              "id": 21872903,
+              "title_fa": "گوشی موبایل اپل مدل iPhone 16 Pro Max ظرفیت 256 گیگابایت",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample4.jpg",
+              "price": 189000000,
+              "old_price": 195000000,
+              "discount_percent": 4,
+              "rating": 4.8,
+              "stock": 5,
+              "colors": ["#111827", "#d4d4d4"],
+              "special_offer": true
+            },
+
+            {
+              "id": 21872904,
+              "title_fa": "گوشی موبایل شیائومی مدل Redmi Note 14 Pro",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample5.jpg",
+              "price": 45900000,
+              "old_price": null,
+              "discount_percent": 0,
+              "rating": 4.4,
+              "stock": 8,
+              "colors": ["#22c55e", "#000000"],
+              "special_offer": false
+            },
+
+            {
+              "id": 21872905,
+              "title_fa": "گوشی موبایل سامسونگ مدل Galaxy A56",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample6.jpg",
+              "price": 38900000,
+              "old_price": 42000000,
+              "discount_percent": 7,
+              "rating": 4.5,
+              "stock": 4,
+              "colors": ["#2563eb", "#ffffff"],
+              "special_offer": true
+            },
+
+            {
+              "id": 21872906,
+              "title_fa": "گوشی موبایل شیائومی مدل Poco F7",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample7.jpg",
+              "price": 72900000,
+              "old_price": null,
+              "discount_percent": 0,
+              "rating": 4.7,
+              "stock": 6,
+              "colors": ["#000000", "#ef4444"],
+              "special_offer": false
+            },
+
+            {
+              "id": 21872907,
+              "title_fa": "گوشی موبایل آنر مدل Magic 7 Pro",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample8.jpg",
+              "price": 99000000,
+              "old_price": 105000000,
+              "discount_percent": 5,
+              "rating": 4.6,
+              "stock": 2,
+              "colors": ["#334155"],
+              "special_offer": true
+            },
+
+            {
+              "id": 21872908,
+              "title_fa": "گوشی موبایل موتورولا مدل Edge 60",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample9.jpg",
+              "price": 56000000,
+              "old_price": null,
+              "discount_percent": 0,
+              "rating": 4.3,
+              "stock": 9,
+              "colors": ["#ffffff"],
+              "special_offer": false
+            },
+
+            {
+              "id": 21872909,
+              "title_fa": "گوشی موبایل وان پلاس مدل 13",
+              "image": "https://dkstatics-public.digikala.com/digikala-products/sample10.jpg",
+              "price": 87000000,
+              "old_price": 90000000,
+              "discount_percent": 3,
+              "rating": 4.7,
+              "stock": 3,
+              "colors": ["#000000", "#dc2626"],
+              "special_offer": true
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
