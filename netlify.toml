@@ -1,0 +1,18 @@
+[[redirects]]
+  from = "/dk-api/*"
+  to = "https://api.digikala.com/:splat"
+  status = 200
+  force = true
+
+  [redirects.headers]
+    Origin = "https://www.digikala.com"
+    Referer = "https://www.digikala.com/"
+    Accept = "application/json, text/plain, */*"
+    X-Web-Client = "desktop"
+    X-Web-Client-Id = "web"
+    X-Web-Optimize-Response = "1"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
